@@ -1,0 +1,964 @@
+{
+  "lessons": [
+    {
+      "id": "L01",
+      "title": "The Gerasimov Doctrine",
+      "tacticalConcept": "Non-Linear Warfare",
+      "historicalValidator": "Russian General Staff Academy (2013)",
+      "phase": "DOCTRINE",
+      "moduleId": 1
+    },
+    {
+      "id": "L02",
+      "title": "The Gray Zone",
+      "tacticalConcept": "Sub-Threshold Aggression",
+      "historicalValidator": "South China Sea Artificial Islands",
+      "phase": "DOCTRINE",
+      "moduleId": 1
+    },
+    {
+      "id": "L03",
+      "title": "Reflexive Control",
+      "tacticalConcept": "Decision Shaping",
+      "historicalValidator": "Soviet Disinformation Campaigns",
+      "phase": "DOCTRINE",
+      "moduleId": 1
+    },
+    {
+      "id": "L04",
+      "title": "Plausible Deniability",
+      "tacticalConcept": "Legal Cut-Outs",
+      "historicalValidator": "Wagner Group in CAR",
+      "phase": "DOCTRINE",
+      "moduleId": 1
+    },
+    {
+      "id": "L05",
+      "title": "Information Dominance",
+      "tacticalConcept": "Narrative Supremacy",
+      "historicalValidator": "Operation InfeKtion",
+      "phase": "DOCTRINE",
+      "moduleId": 1
+    },
+    {
+      "id": "L06",
+      "title": "Attribution Decay",
+      "tacticalConcept": "Cyber-Obfuscation",
+      "historicalValidator": "Lazarus Group (DPRK)",
+      "phase": "DOCTRINE",
+      "moduleId": 1
+    },
+    {
+      "id": "L07",
+      "title": "The Proxy Economy",
+      "tacticalConcept": "Outsourced Violence",
+      "historicalValidator": "Iran",
+      "phase": "DOCTRINE",
+      "moduleId": 1
+    },
+    {
+      "id": "L08",
+      "title": "Salami Slicing",
+      "tacticalConcept": "Incremental Gain",
+      "historicalValidator": "Crimean Annexation (Little Green Men)",
+      "phase": "DOCTRINE",
+      "moduleId": 1
+    },
+    {
+      "id": "L09",
+      "title": "Lawfare Architecture",
+      "tacticalConcept": "Legal Paralysis",
+      "historicalValidator": "China",
+      "phase": "DOCTRINE",
+      "moduleId": 1
+    },
+    {
+      "id": "L10",
+      "title": "Systemic Destabilization",
+      "tacticalConcept": "Infrastructure Targeting",
+      "historicalValidator": "Estonia Cyberattacks (2007)",
+      "phase": "DOCTRINE",
+      "moduleId": 1
+    },
+    {
+      "id": "L11",
+      "title": "Strategic Parity",
+      "tacticalConcept": "Asymmetric Balancing",
+      "historicalValidator": "Hezbollah Missile Stockpiles",
+      "phase": "DOCTRINE",
+      "moduleId": 1
+    },
+    {
+      "id": "L12",
+      "title": "Total vs. Limited War",
+      "tacticalConcept": "Objective Scoping",
+      "historicalValidator": "Clausewitzian Theory",
+      "phase": "DOCTRINE",
+      "moduleId": 1
+    },
+    {
+      "id": "L13",
+      "title": "IPB Fundamentals",
+      "tacticalConcept": "Terrain Mapping",
+      "historicalValidator": "US Army FM 34-130",
+      "phase": "DOCTRINE",
+      "moduleId": 2
+    },
+    {
+      "id": "L14",
+      "title": "The Recruitment Cycle",
+      "tacticalConcept": "Spot-Assess-Develop-Recruit",
+      "historicalValidator": "CIA Tradecraft",
+      "phase": "DOCTRINE",
+      "moduleId": 2
+    },
+    {
+      "id": "L15",
+      "title": "M.I.C.E. Framework",
+      "tacticalConcept": "Leverage Points",
+      "historicalValidator": "KGB Defector Analysis",
+      "phase": "DOCTRINE",
+      "moduleId": 2
+    },
+    {
+      "id": "L16",
+      "title": "The Soft Probe",
+      "tacticalConcept": "Boundary Testing",
+      "historicalValidator": "MSS LinkedIn Recruitment",
+      "phase": "DOCTRINE",
+      "moduleId": 2
+    },
+    {
+      "id": "L17",
+      "title": "Vulnerability Assessment",
+      "tacticalConcept": "The Hook",
+      "historicalValidator": "Cambridge Five Recruitment",
+      "phase": "DOCTRINE",
+      "moduleId": 2
+    },
+    {
+      "id": "L18",
+      "title": "Rapport-as-Weapon",
+      "tacticalConcept": "Artificial Intimacy",
+      "historicalValidator": "Stasi Romeo Spies",
+      "phase": "DOCTRINE",
+      "moduleId": 2
+    },
+    {
+      "id": "L19",
+      "title": "False Flag Recruitment",
+      "tacticalConcept": "Deceptive Alignment",
+      "historicalValidator": "Israeli Intelligence Ops",
+      "phase": "DOCTRINE",
+      "moduleId": 2
+    },
+    {
+      "id": "L20",
+      "title": "Elicitation Protocols",
+      "tacticalConcept": "Information Extraction",
+      "historicalValidator": "FBI Interrogation Manuals",
+      "phase": "DOCTRINE",
+      "moduleId": 2
+    },
+    {
+      "id": "L21",
+      "title": "Surveillance Detection",
+      "tacticalConcept": "Counter-Observation",
+      "historicalValidator": "Moscow Rules",
+      "phase": "DOCTRINE",
+      "moduleId": 2
+    },
+    {
+      "id": "L22",
+      "title": "Kompromat Generation",
+      "tacticalConcept": "Sexual Entrapment",
+      "historicalValidator": "Hotel National (KGB)",
+      "phase": "DOCTRINE",
+      "moduleId": 2
+    },
+    {
+      "id": "L23",
+      "title": "Asset Validation",
+      "tacticalConcept": "Reliability Testing",
+      "historicalValidator": "Polygraph & Background Checks",
+      "phase": "DOCTRINE",
+      "moduleId": 2
+    },
+    {
+      "id": "L24",
+      "title": "Termination & Burn",
+      "tacticalConcept": "Asset Disposal",
+      "historicalValidator": "Operation Ghost Stories",
+      "phase": "DOCTRINE",
+      "moduleId": 2
+    },
+    {
+      "id": "L25",
+      "title": "The Plaza System",
+      "tacticalConcept": "Territorial Command",
+      "historicalValidator": "Mirroring: Military Occupation Zones (Sinaloa)",
+      "phase": "REFLECTION",
+      "moduleId": 3
+    },
+    {
+      "id": "L26",
+      "title": "Radio Zetas",
+      "tacticalConcept": "Encrypted Comms Infrastructure",
+      "historicalValidator": "Mirroring: Military SIGINT/C2 (Los Zetas)",
+      "phase": "REFLECTION",
+      "moduleId": 3
+    },
+    {
+      "id": "L27",
+      "title": "The Cut-Out Structure",
+      "tacticalConcept": "Insulated Leadership",
+      "historicalValidator": "Mirroring: Intelligence Cell Structure (Cali Cartel)",
+      "phase": "REFLECTION",
+      "moduleId": 3
+    },
+    {
+      "id": "L28",
+      "title": "Compartmentalization",
+      "tacticalConcept": "Need-to-Know",
+      "historicalValidator": "Mirroring: Classified Clearance Levels (Medell\u00edn)",
+      "phase": "REFLECTION",
+      "moduleId": 3
+    },
+    {
+      "id": "L29",
+      "title": "The Halcon Network",
+      "tacticalConcept": "Human Sensor Array",
+      "historicalValidator": "Mirroring: ISTAR Doctrine (Gulf Cartel)",
+      "phase": "REFLECTION",
+      "moduleId": 3
+    },
+    {
+      "id": "L30",
+      "title": "Redundant Logistics",
+      "tacticalConcept": "Supply Chain Resilience",
+      "historicalValidator": "Mirroring: Military Logistics (El Chapo Tunnels)",
+      "phase": "REFLECTION",
+      "moduleId": 3
+    },
+    {
+      "id": "L31",
+      "title": "Dead Drops & Couriers",
+      "tacticalConcept": "Physical Info Transfer",
+      "historicalValidator": "Mirroring: Cold War Tradecraft (French Connection)",
+      "phase": "REFLECTION",
+      "moduleId": 3
+    },
+    {
+      "id": "L32",
+      "title": "The Sicario Cell",
+      "tacticalConcept": "Special Forces Unit",
+      "historicalValidator": "Mirroring: GAFE/Special Ops (Zetas Origins)",
+      "phase": "REFLECTION",
+      "moduleId": 3
+    },
+    {
+      "id": "L33",
+      "title": "Fail-Safe Protocols",
+      "tacticalConcept": "Capture contingencies",
+      "historicalValidator": "Mirroring: SERE Training (Escobar surrender)",
+      "phase": "REFLECTION",
+      "moduleId": 3
+    },
+    {
+      "id": "L34",
+      "title": "Counter-Infiltration",
+      "tacticalConcept": "Mole Hunting",
+      "historicalValidator": "Mirroring: Counter-Intelligence (Arellano-F\u00e9lix)",
+      "phase": "REFLECTION",
+      "moduleId": 3
+    },
+    {
+      "id": "L35",
+      "title": "Digital Exhaust Control",
+      "tacticalConcept": "Metadata Management",
+      "historicalValidator": "Mirroring: NSA Evasion (EncroChat usage)",
+      "phase": "REFLECTION",
+      "moduleId": 3
+    },
+    {
+      "id": "L36",
+      "title": "Shadow Governance",
+      "tacticalConcept": "State Replacement",
+      "historicalValidator": "Mirroring: COIN / Nation Building (Michoac\u00e1n Family)",
+      "phase": "REFLECTION",
+      "moduleId": 3
+    },
+    {
+      "id": "L37",
+      "title": "The Laundromat",
+      "tacticalConcept": "Layering & Integration",
+      "historicalValidator": "Mirroring: State Sanctions Evasion (HSBC/Sinaloa)",
+      "phase": "REFLECTION",
+      "moduleId": 4
+    },
+    {
+      "id": "L38",
+      "title": "Trade-Based Laundering",
+      "tacticalConcept": "Value Transfer",
+      "historicalValidator": "Mirroring: Black Market Peso Exchange",
+      "phase": "REFLECTION",
+      "moduleId": 4
+    },
+    {
+      "id": "L39",
+      "title": "The Hawala Mirror",
+      "tacticalConcept": "Trust-Based Transfer",
+      "historicalValidator": "Mirroring: Terror Finance Networks",
+      "phase": "REFLECTION",
+      "moduleId": 4
+    },
+    {
+      "id": "L40",
+      "title": "Crypto-Obfuscation",
+      "tacticalConcept": "Digital Ledger Evasion",
+      "historicalValidator": "Mirroring: Lazarus Group Defi Hacks",
+      "phase": "REFLECTION",
+      "moduleId": 4
+    },
+    {
+      "id": "L41",
+      "title": "Shell Company Architecture",
+      "tacticalConcept": "Legal Shielding",
+      "historicalValidator": "Mirroring: Offshore Tax Havens (Panama Papers)",
+      "phase": "REFLECTION",
+      "moduleId": 4
+    },
+    {
+      "id": "L42",
+      "title": "The Extortion Tax",
+      "tacticalConcept": "Parallel Taxation",
+      "historicalValidator": "Mirroring: State Revenue Collection (Sicilian Mafia)",
+      "phase": "REFLECTION",
+      "moduleId": 4
+    },
+    {
+      "id": "L43",
+      "title": "Resource Capture",
+      "tacticalConcept": "Strategic Asset Seizure",
+      "historicalValidator": "Mirroring: Nationalization of Industry (Avocados/Oil)",
+      "phase": "REFLECTION",
+      "moduleId": 4
+    },
+    {
+      "id": "L44",
+      "title": "Human Capital Weaponization",
+      "tacticalConcept": "Forced Labor",
+      "historicalValidator": "Mirroring: State Conscription (Human Trafficking)",
+      "phase": "REFLECTION",
+      "moduleId": 4
+    },
+    {
+      "id": "L45",
+      "title": "Corruption as Budget",
+      "tacticalConcept": "Institutional Bribery",
+      "historicalValidator": "Mirroring: Foreign Aid / Lobbying (Odebrecht)",
+      "phase": "REFLECTION",
+      "moduleId": 4
+    },
+    {
+      "id": "L46",
+      "title": "The Narco-Subs",
+      "tacticalConcept": "Stealth Logistics",
+      "historicalValidator": "Mirroring: Naval Blockade Running",
+      "phase": "REFLECTION",
+      "moduleId": 4
+    },
+    {
+      "id": "L47",
+      "title": "Real Estate Integration",
+      "tacticalConcept": "Asset Parking",
+      "historicalValidator": "Mirroring: Sovereign Wealth Funds",
+      "phase": "REFLECTION",
+      "moduleId": 4
+    },
+    {
+      "id": "L48",
+      "title": "Franchise Models",
+      "tacticalConcept": "Decentralized Expansion",
+      "historicalValidator": "Mirroring: Colonial Mercantilism (CJNG)",
+      "phase": "REFLECTION",
+      "moduleId": 4
+    },
+    {
+      "id": "L49",
+      "title": "The Narco-Banner",
+      "tacticalConcept": "Public Messaging",
+      "historicalValidator": "Mirroring: Leaflet Drops / State Propaganda",
+      "phase": "REFLECTION",
+      "moduleId": 5
+    },
+    {
+      "id": "L50",
+      "title": "The Gore Video",
+      "tacticalConcept": "Terror Broadcasting",
+      "historicalValidator": "Mirroring: Shock and Awe Doctrine",
+      "phase": "REFLECTION",
+      "moduleId": 5
+    },
+    {
+      "id": "L51",
+      "title": "Narcocorridos",
+      "tacticalConcept": "Cultural Myth-Making",
+      "historicalValidator": "Mirroring: State Anthem / Nationalist Art",
+      "phase": "REFLECTION",
+      "moduleId": 5
+    },
+    {
+      "id": "L52",
+      "title": "Social Media Influencing",
+      "tacticalConcept": "Recruitment Propaganda",
+      "historicalValidator": "Mirroring: Military Recruitment Ads (Cartel TikTok)",
+      "phase": "REFLECTION",
+      "moduleId": 5
+    },
+    {
+      "id": "L53",
+      "title": "Journalist Intimidation",
+      "tacticalConcept": "Censorship",
+      "historicalValidator": "Mirroring: State Media Control (Plata o Plomo)",
+      "phase": "REFLECTION",
+      "moduleId": 5
+    },
+    {
+      "id": "L54",
+      "title": "Disinformation Flooding",
+      "tacticalConcept": "Noise Generation",
+      "historicalValidator": "Mirroring: Firehose of Falsehood",
+      "phase": "REFLECTION",
+      "moduleId": 5
+    },
+    {
+      "id": "L55",
+      "title": "The ",
+      "tacticalConcept": "Legitimacy Building",
+      "historicalValidator": "Mirroring: Winning Hearts and Minds (El Chapo)",
+      "phase": "REFLECTION",
+      "moduleId": 5
+    },
+    {
+      "id": "L56",
+      "title": "Attribution Denial",
+      "tacticalConcept": "False Flag Violence",
+      "historicalValidator": "Mirroring: Deniable Ops (Juarez Cartel)",
+      "phase": "REFLECTION",
+      "moduleId": 5
+    },
+    {
+      "id": "L57",
+      "title": "Signal Signaling",
+      "tacticalConcept": "In-Group Verification",
+      "historicalValidator": "Mirroring: Uniforms and Insignia",
+      "phase": "REFLECTION",
+      "moduleId": 5
+    },
+    {
+      "id": "L58",
+      "title": "Community 'Despensas'",
+      "tacticalConcept": "Aid Diplomacy",
+      "historicalValidator": "Mirroring: Humanitarian Aid as Influence (COVID-19)",
+      "phase": "REFLECTION",
+      "moduleId": 5
+    },
+    {
+      "id": "L59",
+      "title": "The Whisper Campaign",
+      "tacticalConcept": "Rumor Propagation",
+      "historicalValidator": "Mirroring: Destabilization of Rival States",
+      "phase": "REFLECTION",
+      "moduleId": 5
+    },
+    {
+      "id": "L60",
+      "title": "Strategic Silence",
+      "tacticalConcept": "Ambiguity",
+      "historicalValidator": "Mirroring: Strategic Ambiguity Doctrine",
+      "phase": "REFLECTION",
+      "moduleId": 5
+    },
+    {
+      "id": "L61",
+      "title": "The Halcon System",
+      "tacticalConcept": "Static Surveillance",
+      "historicalValidator": "Mirroring: Forward Operating Bases",
+      "phase": "REFLECTION",
+      "moduleId": 6
+    },
+    {
+      "id": "L62",
+      "title": "Follow Teams",
+      "tacticalConcept": "Mobile Surveillance",
+      "historicalValidator": "Mirroring: FSB Surveillance Teams",
+      "phase": "REFLECTION",
+      "moduleId": 6
+    },
+    {
+      "id": "L63",
+      "title": "Technical Intercepts",
+      "tacticalConcept": "Cloned Phones/Stingrays",
+      "historicalValidator": "Mirroring: NSA Prism / Wiretaps",
+      "phase": "REFLECTION",
+      "moduleId": 6
+    },
+    {
+      "id": "L64",
+      "title": "Counter-Surveillance Drills",
+      "tacticalConcept": "Heat Checks",
+      "historicalValidator": "Mirroring: CIA SDR (Surveillance Detection Routes)",
+      "phase": "REFLECTION",
+      "moduleId": 6
+    },
+    {
+      "id": "L65",
+      "title": "The Taxi Network",
+      "tacticalConcept": "Ubiquitous Eyes",
+      "historicalValidator": "Mirroring: Informant Networks (Acapulco)",
+      "phase": "REFLECTION",
+      "moduleId": 6
+    },
+    {
+      "id": "L66",
+      "title": "Drone Usage",
+      "tacticalConcept": "Aerial Reconnaissance",
+      "historicalValidator": "Mirroring: UAV Doctrine (CJNG Drones)",
+      "phase": "REFLECTION",
+      "moduleId": 6
+    },
+    {
+      "id": "L67",
+      "title": "Checkpoint Operations",
+      "tacticalConcept": "Area Denial/Monitoring",
+      "historicalValidator": "Mirroring: Border Control / Military Checkpoints",
+      "phase": "REFLECTION",
+      "moduleId": 6
+    },
+    {
+      "id": "L68",
+      "title": "License Plate Logging",
+      "tacticalConcept": "Pattern of Life Analysis",
+      "historicalValidator": "Mirroring: Mass Surveillance States",
+      "phase": "REFLECTION",
+      "moduleId": 6
+    },
+    {
+      "id": "L69",
+      "title": "Infiltration/Moles",
+      "tacticalConcept": "Human Penetration",
+      "historicalValidator": "Mirroring: Deep Cover Operatives (The Departed)",
+      "phase": "REFLECTION",
+      "moduleId": 6
+    },
+    {
+      "id": "L70",
+      "title": "GPS Tracking",
+      "tacticalConcept": "Asset Tagging",
+      "historicalValidator": "Mirroring: Tagging and Tracking Doctrine",
+      "phase": "REFLECTION",
+      "moduleId": 6
+    },
+    {
+      "id": "L71",
+      "title": "Open Source Intelligence",
+      "tacticalConcept": "Social Media Scraping",
+      "historicalValidator": "Mirroring: OSINT Analysis",
+      "phase": "REFLECTION",
+      "moduleId": 6
+    },
+    {
+      "id": "L72",
+      "title": "Interrogation Protocol",
+      "tacticalConcept": "Humint Extraction",
+      "historicalValidator": "Mirroring: Enhanced Interrogation Techniques",
+      "phase": "REFLECTION",
+      "moduleId": 6
+    },
+    {
+      "id": "L73",
+      "title": "The GAFE Lineage",
+      "tacticalConcept": "Special Forces Desertion",
+      "historicalValidator": "Mirroring: Elite Unit Training (Original Zetas)",
+      "phase": "REFLECTION",
+      "moduleId": 7
+    },
+    {
+      "id": "L74",
+      "title": "Technical Vehicles",
+      "tacticalConcept": "Mobile Firepower",
+      "historicalValidator": "Mirroring: Light Cavalry / Technicals",
+      "phase": "REFLECTION",
+      "moduleId": 7
+    },
+    {
+      "id": "L75",
+      "title": "Urban Combat Doctrine",
+      "tacticalConcept": "CQB Tactics",
+      "historicalValidator": "Mirroring: MOUT (Military Ops in Urban Terrain)",
+      "phase": "REFLECTION",
+      "moduleId": 7
+    },
+    {
+      "id": "L76",
+      "title": "Proxy Gangs",
+      "tacticalConcept": "Deniable Forces",
+      "historicalValidator": "Mirroring: Wagner/Blackwater Models (Barrio 18)",
+      "phase": "REFLECTION",
+      "moduleId": 7
+    },
+    {
+      "id": "L77",
+      "title": "Ambush Tactics",
+      "tacticalConcept": "Asymmetric Engagement",
+      "historicalValidator": "Mirroring: Guerilla Warfare Doctrine",
+      "phase": "REFLECTION",
+      "moduleId": 7
+    },
+    {
+      "id": "L78",
+      "title": "The 'Monstros' (Armored Trucks)",
+      "tacticalConcept": "Force Projection",
+      "historicalValidator": "Mirroring: APC Deployment",
+      "phase": "REFLECTION",
+      "moduleId": 7
+    },
+    {
+      "id": "L79",
+      "title": "Kidnap & Ransom",
+      "tacticalConcept": "Resource Extraction",
+      "historicalValidator": "Mirroring: State Hostage Diplomacy",
+      "phase": "REFLECTION",
+      "moduleId": 7
+    },
+    {
+      "id": "L80",
+      "title": "Targeted Assassination",
+      "tacticalConcept": "HVT Elimination",
+      "historicalValidator": "Mirroring: Drone Strikes / Wet Ops",
+      "phase": "REFLECTION",
+      "moduleId": 7
+    },
+    {
+      "id": "L81",
+      "title": "Territorial Cleansing",
+      "tacticalConcept": "Displacement",
+      "historicalValidator": "Mirroring: Ethnic Cleansing / Area Pacification",
+      "phase": "REFLECTION",
+      "moduleId": 7
+    },
+    {
+      "id": "L82",
+      "title": "Weapons Trafficking",
+      "tacticalConcept": "Logistical Support",
+      "historicalValidator": "Mirroring: Foreign Military Sales (Fast and Furious)",
+      "phase": "REFLECTION",
+      "moduleId": 7
+    },
+    {
+      "id": "L83",
+      "title": "IED Deployment",
+      "tacticalConcept": "Area Denial",
+      "historicalValidator": "Mirroring: Asymmetric Warfare (Colombia/Mexico)",
+      "phase": "REFLECTION",
+      "moduleId": 7
+    },
+    {
+      "id": "L84",
+      "title": "Training Camps",
+      "tacticalConcept": "Force Generation",
+      "historicalValidator": "Mirroring: Boot Camps / Militia Training",
+      "phase": "REFLECTION",
+      "moduleId": 7
+    },
+    {
+      "id": "L85",
+      "title": "Plata o Plomo",
+      "tacticalConcept": "Coercive Diplomacy",
+      "historicalValidator": "Mirroring: Carrot and Stick Diplomacy",
+      "phase": "REFLECTION",
+      "moduleId": 8
+    },
+    {
+      "id": "L86",
+      "title": "The Police Payroll",
+      "tacticalConcept": "Insider Threat",
+      "historicalValidator": "Mirroring: Puppet Security Forces",
+      "phase": "REFLECTION",
+      "moduleId": 8
+    },
+    {
+      "id": "L87",
+      "title": "Judicial Corruption",
+      "tacticalConcept": "Lawfare Defense",
+      "historicalValidator": "Mirroring: Kangaroo Courts",
+      "phase": "REFLECTION",
+      "moduleId": 8
+    },
+    {
+      "id": "L88",
+      "title": "Political Campaign Funding",
+      "tacticalConcept": "State Capture",
+      "historicalValidator": "Mirroring: Foreign Election Interference",
+      "phase": "REFLECTION",
+      "moduleId": 8
+    },
+    {
+      "id": "L89",
+      "title": "Prison Control",
+      "tacticalConcept": "Forward Command Posts",
+      "historicalValidator": "Mirroring: Government in Exile",
+      "phase": "REFLECTION",
+      "moduleId": 8
+    },
+    {
+      "id": "L90",
+      "title": "Regulatory Capture",
+      "tacticalConcept": "Market Manipulation",
+      "historicalValidator": "Mirroring: Oligarchy Dynamics",
+      "phase": "REFLECTION",
+      "moduleId": 8
+    },
+    {
+      "id": "L91",
+      "title": "Border Corruption",
+      "tacticalConcept": "Gateway Control",
+      "historicalValidator": "Mirroring: Customs Evasion",
+      "phase": "REFLECTION",
+      "moduleId": 8
+    },
+    {
+      "id": "L92",
+      "title": "Military Integration",
+      "tacticalConcept": "Force Multipliers",
+      "historicalValidator": "Mirroring: Joint Task Forces (Corrupted)",
+      "phase": "REFLECTION",
+      "moduleId": 8
+    },
+    {
+      "id": "L93",
+      "title": "Infrastructure Theft",
+      "tacticalConcept": "Resource Leeching",
+      "historicalValidator": "Mirroring: Huachicoleros (Fuel Theft)",
+      "phase": "REFLECTION",
+      "moduleId": 8
+    },
+    {
+      "id": "L94",
+      "title": "Sanctuary Cities",
+      "tacticalConcept": "Safe Havens",
+      "historicalValidator": "Mirroring: Non-Extradition Treaties",
+      "phase": "REFLECTION",
+      "moduleId": 8
+    },
+    {
+      "id": "L95",
+      "title": "The 'Narcopolitician'",
+      "tacticalConcept": "Hybrid Actor",
+      "historicalValidator": "Mirroring: State-Sponsored Terrorism",
+      "phase": "REFLECTION",
+      "moduleId": 8
+    },
+    {
+      "id": "L96",
+      "title": "Impunity Architecture",
+      "tacticalConcept": "Legal Immunity",
+      "historicalValidator": "Mirroring: Diplomatic Immunity",
+      "phase": "REFLECTION",
+      "moduleId": 8
+    },
+    {
+      "id": "L97",
+      "title": "Zero-Day Exploits",
+      "tacticalConcept": "Strategic Cyber Weapons",
+      "historicalValidator": "Stuxnet (Operation Olympic Games)",
+      "phase": "ENDGAME",
+      "moduleId": 9
+    },
+    {
+      "id": "L98",
+      "title": "Sovereign Internets",
+      "tacticalConcept": "Information Autarky",
+      "historicalValidator": "The Great Firewall / RuNet",
+      "phase": "ENDGAME",
+      "moduleId": 9
+    },
+    {
+      "id": "L99",
+      "title": "Cognitive Domain Ops",
+      "tacticalConcept": "Neuro-Strike",
+      "historicalValidator": "NATO Cognitive Warfare Study",
+      "phase": "ENDGAME",
+      "moduleId": 9
+    },
+    {
+      "id": "L100",
+      "title": "Critical Infrastructure Kill Switches",
+      "tacticalConcept": "Deterrence via Denial",
+      "historicalValidator": "BlackEnergy (Ukraine Grid)",
+      "phase": "ENDGAME",
+      "moduleId": 9
+    },
+    {
+      "id": "L101",
+      "title": "Global Surveillance Dragnets",
+      "tacticalConcept": "Total Information Awareness",
+      "historicalValidator": "Five Eyes / PRISM",
+      "phase": "ENDGAME",
+      "moduleId": 9
+    },
+    {
+      "id": "L102",
+      "title": "Algorithmic Warfare",
+      "tacticalConcept": "AI Battlefield Management",
+      "historicalValidator": "Project Maven",
+      "phase": "ENDGAME",
+      "moduleId": 9
+    },
+    {
+      "id": "L103",
+      "title": "Deepfake Diplomacy",
+      "tacticalConcept": "Synthetic Reality",
+      "historicalValidator": "State-Gen AI Disinfo",
+      "phase": "ENDGAME",
+      "moduleId": 9
+    },
+    {
+      "id": "L104",
+      "title": "Supply Chain Injection",
+      "tacticalConcept": "Hardware Backdoors",
+      "historicalValidator": "Supermicro Chip Hack",
+      "phase": "ENDGAME",
+      "moduleId": 9
+    },
+    {
+      "id": "L105",
+      "title": "Satellite Warfare",
+      "tacticalConcept": "Space Domain Denial",
+      "historicalValidator": "ASAT Tests",
+      "phase": "ENDGAME",
+      "moduleId": 9
+    },
+    {
+      "id": "L106",
+      "title": "Quantum Decryption",
+      "tacticalConcept": "The Apocalypse Protocol",
+      "historicalValidator": "Post-Quantum Cryptography Race",
+      "phase": "ENDGAME",
+      "moduleId": 9
+    },
+    {
+      "id": "L107",
+      "title": "Biometric Control",
+      "tacticalConcept": "Identity Lock",
+      "historicalValidator": "Xinjiang Surveillance State",
+      "phase": "ENDGAME",
+      "moduleId": 9
+    },
+    {
+      "id": "L108",
+      "title": "The splinternet",
+      "tacticalConcept": "Digital Balkanization",
+      "historicalValidator": "Global Internet Fragmentation",
+      "phase": "ENDGAME",
+      "moduleId": 9
+    },
+    {
+      "id": "L109",
+      "title": "Mutually Assured Destruction",
+      "tacticalConcept": "Ultimate Deterrence",
+      "historicalValidator": "Cold War Nuclear Doctrine",
+      "phase": "ENDGAME",
+      "moduleId": 10
+    },
+    {
+      "id": "L110",
+      "title": "Sphere of Influence",
+      "tacticalConcept": "Geopolitical Control",
+      "historicalValidator": "Monroe Doctrine / Belt and Road",
+      "phase": "ENDGAME",
+      "moduleId": 10
+    },
+    {
+      "id": "L111",
+      "title": "Regime Change Operations",
+      "tacticalConcept": "Political Engineering",
+      "historicalValidator": "Operation Ajax / Operation Condor",
+      "phase": "ENDGAME",
+      "moduleId": 10
+    },
+    {
+      "id": "L112",
+      "title": "Economic Sanctions Regimes",
+      "tacticalConcept": "Financial Siege Warfare",
+      "historicalValidator": "SWIFT Weaponization",
+      "phase": "ENDGAME",
+      "moduleId": 10
+    },
+    {
+      "id": "L113",
+      "title": "The Security Dilemma",
+      "tacticalConcept": "Escalation Spirals",
+      "historicalValidator": "WWI Alliance Chains",
+      "phase": "ENDGAME",
+      "moduleId": 10
+    },
+    {
+      "id": "L114",
+      "title": "Grand Strategy",
+      "tacticalConcept": "Long-Term Planning",
+      "historicalValidator": "Containment Theory",
+      "phase": "ENDGAME",
+      "moduleId": 10
+    },
+    {
+      "id": "L115",
+      "title": "Failed States",
+      "tacticalConcept": "Strategic Vacuums",
+      "historicalValidator": "Somalia / Libya Analysis",
+      "phase": "ENDGAME",
+      "moduleId": 10
+    },
+    {
+      "id": "L116",
+      "title": "The Thucydides Trap",
+      "tacticalConcept": "Hegemonic Transition",
+      "historicalValidator": "US-China Relations",
+      "phase": "ENDGAME",
+      "moduleId": 10
+    },
+    {
+      "id": "L117",
+      "title": "Resource Wars",
+      "tacticalConcept": "Survival Economics",
+      "historicalValidator": "Water/Lithium Geopolitics",
+      "phase": "ENDGAME",
+      "moduleId": 10
+    },
+    {
+      "id": "L118",
+      "title": "Ideological Subversion",
+      "tacticalConcept": "Cultural Hegemony",
+      "historicalValidator": "Bezmenov / Active Measures",
+      "phase": "ENDGAME",
+      "moduleId": 10
+    },
+    {
+      "id": "L119",
+      "title": "The Panopticon State",
+      "tacticalConcept": "Total Social Control",
+      "historicalValidator": "Social Credit Systems",
+      "phase": "ENDGAME",
+      "moduleId": 10
+    },
+    {
+      "id": "L120",
+      "title": "The Post-Westphalian Order",
+      "tacticalConcept": "Future Sovereignty",
+      "historicalValidator": "The Rise of Non-State Power",
+      "phase": "ENDGAME",
+      "moduleId": 10
+    }
+  ]
+}

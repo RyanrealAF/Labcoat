@@ -1,0 +1,16 @@
+name = "curriculum-api" 
+main = "src/index.ts" 
+compatibility_date = "2024-11-24" 
+ 
+# Bindings 
+[[ vectorize ]] 
+binding = "VECTORIZE" 
+index_name = "fractal-curriculum-prod" 
+ 
+[[ d1_databases ]] 
+binding = "D1" 
+database_name = "tactical-curriculum-db" 
+database_id = "25f74a5f-6030-41a9-ae14-061a2e594e13" 
+ 
+[ai] 
+binding = "AI" 

@@ -1,0 +1,5 @@
+{
+  "src/data/curriculum.ts": "9d18f5da40fa9bbd4c918015564462b6c4b6f1fadf1c18fbf91c9c8509ff11ea",
+  "backend/data/embeddings/lesson_vectors.json": "8bfbe544c8bc84be8422c519d49432d36072f951518670bee8e0cfd365024b52",
+  "d1_expected_count": 120
+}
